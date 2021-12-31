@@ -52,7 +52,7 @@ $ make shell
 
 # Author \ 著者
 
-神達 小楠 - Shonan Kandatsu
+datsukan
 
 # License \ ライセンス
 
